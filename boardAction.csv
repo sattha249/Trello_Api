@@ -1,0 +1,51 @@
+DATE,BOARDNAME,TYPE,CARDNAME,FULLNAME,BEFOREMOVE,AFTERMOVE
+2022-05-31T10:29:06.859Z,Project trello,updateCard,ทดสอบ due date,Sattha kumpalaew,,
+2022-05-31T10:10:38.409Z,Project trello,addMemberToCard,ทดสอบ member,Sattha kumpalaew,,
+2022-05-31T10:10:37.755Z,Project trello,addMemberToCard,ทดสอบ member,Sattha kumpalaew,,
+2022-05-31T10:10:35.131Z,Project trello,updateCard,ทดสอบ member,Sattha kumpalaew,,
+2022-05-31T10:10:09.407Z,Project trello,createCard,ทดสอบ member,Sattha kumpalaew,,
+2022-05-31T10:09:44.712Z,Project trello,updateCard,ทดสอบ due date,Sattha kumpalaew,,
+2022-05-31T10:09:44.675Z,Project trello,updateCard,ทดสอบ due date,Sattha kumpalaew,,
+2022-05-31T10:09:35.969Z,Project trello,createCard,ทดสอบ due date,Sattha kumpalaew,,
+2022-05-31T10:09:13.964Z,Project trello,createCard,ทดสอบ Label,Sattha kumpalaew,,
+2022-05-31T08:31:37.400Z,Project trello,commentCard,Goal,Sattha kumpalaew,,
+2022-05-31T08:28:25.240Z,Project trello,commentCard,Goal,pakorn sirichotedumrong,,
+2022-05-31T08:28:01.946Z,Project trello,updateCard,Goal,pakorn sirichotedumrong,,
+2022-05-31T08:26:19.187Z,Project trello,commentCard,Upload ขึ้น Cloud,pakorn sirichotedumrong,,
+2022-05-31T08:24:26.309Z,Project trello,updateCard,Upload ขึ้น Cloud,Sattha kumpalaew,Doing,Review
+2022-05-31T08:20:50.318Z,Project trello,commentCard,Upload ขึ้น Cloud,Sattha kumpalaew,,
+2022-05-31T08:18:24.424Z,Project trello,addAttachmentToCard,Upload ขึ้น Cloud,Sattha kumpalaew,,
+2022-05-31T08:18:22.649Z,Project trello,addAttachmentToCard,Upload ขึ้น Cloud,Sattha kumpalaew,,
+2022-05-31T02:12:14.436Z,Project trello,commentCard,Upload ขึ้น Cloud,Sattha kumpalaew,,
+2022-05-31T02:00:38.753Z,Project trello,addMemberToBoard,,pakorn sirichotedumrong,,
+2022-05-31T02:00:31.440Z,Project trello,commentCard,Upload ขึ้น Cloud,pakorn sirichotedumrong,,
+2022-05-31T01:50:57.845Z,Project trello,updateCard,Upload ขึ้น Cloud,Sattha kumpalaew,,
+2022-05-31T01:50:57.816Z,Project trello,updateCard,Upload ขึ้น Cloud,Sattha kumpalaew,Todo,Doing
+2022-05-30T11:55:10.494Z,Project trello,updateCard,Upload ขึ้น Cloud,Sattha kumpalaew,Backlog,Todo
+2022-05-30T11:55:07.680Z,Project trello,updateCard,Test 001,Sattha kumpalaew,Todo,Done
+2022-05-30T11:54:48.204Z,Project trello,updateCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T11:54:48.163Z,Project trello,updateCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,Doing,Review
+2022-05-30T11:54:42.295Z,Project trello,commentCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T11:50:53.748Z,Project trello,addAttachmentToCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T11:50:53.030Z,Project trello,addAttachmentToCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T11:50:52.240Z,Project trello,addAttachmentToCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T11:34:47.989Z,Project trello,addMemberToCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,pakorn sirichotedumrong,,
+2022-05-30T11:23:52.243Z,Project trello,commentCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T11:22:49.913Z,Project trello,addAttachmentToCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T09:40:24.424Z,Project trello,commentCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T09:38:17.816Z,Project trello,addAttachmentToCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T08:27:32.649Z,Project trello,updateCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T08:26:00.775Z,Project trello,addAttachmentToCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-30T04:24:48.196Z,Project trello,createCard,Test 001,Sattha kumpalaew,,
+2022-05-30T04:24:36.230Z,Project trello,updateCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,Backlog,Doing
+2022-05-28T06:20:16.155Z,Project trello,createCard,Upload ขึ้น Cloud,Sattha kumpalaew,,
+2022-05-28T06:20:16.151Z,Project trello,updateCard,Upload ขึ้น Cloud,Sattha kumpalaew,,
+2022-05-28T06:19:50.202Z,Project trello,createCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-28T06:19:50.197Z,Project trello,updateCard,นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,Sattha kumpalaew,,
+2022-05-27T11:35:50.252Z,Project trello,updateCard,Goal,pakorn sirichotedumrong,,
+2022-05-27T11:35:50.227Z,Project trello,updateCard,Goal,pakorn sirichotedumrong,Todo,Info
+2022-05-27T11:30:11.372Z,Project trello,updateCard,Goal,Sattha kumpalaew,Info,Todo
+2022-05-27T11:30:09.530Z,Project trello,updateCard,Get ข้อมูลบอร์ดทั่วไป (2),Sattha kumpalaew,Doing,Review
+2022-05-27T11:30:06.076Z,Project trello,commentCard,Get ข้อมูลบอร์ดทั่วไป (2),Sattha kumpalaew,,
+2022-05-27T11:29:19.329Z,Project trello,addAttachmentToCard,Get ข้อมูลบอร์ดทั่วไป (2),Sattha kumpalaew,,
+2022-05-27T10:28:00.752Z,Project trello,commentCard,Get ข้อมูลบอร์ดทั่วไป (2),Sattha kumpalaew,,

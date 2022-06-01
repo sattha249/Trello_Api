@@ -1,0 +1,10 @@
+NAME,START,DUE,MEMBER,LABEL_NAME,LABEL_COLOR
+Goal,no start date assign,no due date assign,Sattha kumpalaew,no label name,no label color
+ดึงข้อมูลในบอร์ดตาม  requirement,no start date assign,no due date assign,,no label name,no label color
+Upload ขึ้น Cloud (2),no start date assign,no due date assign,,no label name,no label color
+Get ข้อมูลบอร์ดทั่วไป (2),no start date assign,no due date assign,Sattha kumpalaew,no label name,no label color
+นำข้อมูลจากบอร์ดไปเขียนลงไฟล์ csv,no start date assign,no due date assign,Sattha kumpalaew,no label name,no label color
+ทดสอบ member,no start date assign,no due date assign,"pakorn sirichotedumrong,Sattha kumpalaew",Black Label,black
+ทดสอบ due date,2022-06-06T01:00:00.000Z,2022-06-07T10:09:00.000Z,,Green label,green
+ทดสอบ Label,no start date assign,no due date assign,,"Red label,Orange,Blue label","red,orange,blue"
+Test 001,no start date assign,no due date assign,,no label name,no label color

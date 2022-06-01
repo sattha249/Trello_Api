@@ -1,0 +1,21 @@
+ดึงมาจากการ์ด APIก่อน
+
+- Card name (object.name) แสดงชื่อการ์ด
+- start/due date (object.badges.start,object.badges.due)
+- Member(object.idMembers) // ได้ค่ามาเป็นเลข idอยู่ใน Array เช่น 6083be5990f11a4093f677d7 หากไม่มี member จะเป็น Arrayเปล่า ส่วนนี้ต้องหาวิธีนำกลับมาเป็น fullname/username 
+(อาจจะต้องเก็บค่าไว้เพื่อยิง API ซ้อน)
+- Labels (object.labels) // เป็น Array of JSON อาจจะต้องทำการเช็คจำนวนด้วยfor ก่อนนำมาแสดงผล รายละเอียดที่ใช้น่าจะเป็น
+object.labels[i].name,
+object.labels[i].color
+
+
+Optional ไว้ทำตอนว่าง
+List (object.idList) จะแสดงไอดีของ listมา ถ้าต้องการทราบชื่อ ต้องยิงซ้อน
+
+
+{id: 'name',title:'NAME'},
+        {id: 'start', title: 'START'},
+        {id: 'due', title: 'DUE'},
+        {id: 'member', title: 'MEMBER'},
+        {id: 'label_name', title: 'LABEL_NAME'},
+        {id: 'label_color', title: 'LABEL_COLOR'}
